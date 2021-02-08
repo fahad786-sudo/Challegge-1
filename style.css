@@ -1,0 +1,26 @@
+*
+{
+
+    box-sizing: border-box;
+}
+main{
+    width: 80%;
+    margin: 0 auto;
+    height: 80%;
+    border: 10px solid rgb(3, 2, 2); 
+}
+
+.banner{
+    height: 500px;
+    width: 40%;
+    background-color: #000000;
+    float: left;
+}
+
+
+.form{
+    height: 500px;
+    width: 60%;
+    background-color: #ab5d5d;
+    float: right;
+}
